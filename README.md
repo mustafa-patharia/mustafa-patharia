@@ -91,8 +91,6 @@
 
 ## 🚀 Current Focus
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=mustafapatharia&layout=compact&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-
 - 💼 **Freelancing** — open to contract & consulting work
 - 🔍 **Looking for a remote job** — full-time roles welcome
 - 🧠 Building **AI-powered automation agents** with n8n & MCP servers
